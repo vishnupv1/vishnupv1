@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Vishnu P V - a MEAN Stack dev.
 - 👀 I’m interested in web development using Javascript and its frameworks.
-- 📫 Reach me on  <a href="vishnupv0808@gmail.com"><img src= 'https://cdn-icons-png.flaticon.com/128/5968/5968534.png' width = '15' height='15'></img></a>
-<a href="https://www.linkedin.com/in/vishnu-pv-b73402203/"><img src= 'https://cdn-icons-png.flaticon.com/128/3536/3536505.png' width = '15' height='15'></img></a>
-- vishnupv0808@gmail.com or https://www.linkedin.com/in/vishnu-pv-b73402203
+- 📫 Reach me on vishnupv0808@gmail.com or <a href="https://www.linkedin.com/in/vishnu-pv-b73402203/"><img src= 'https://cdn-icons-png.flaticon.com/128/3536/3536505.png' width = '15' height='15'></img></a>
+<a href="https://leetcode.com/vishnupv1/"><img src= 'https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png' width = '15' height='15'></img></a>
 - Tech used -
   <div>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width='35' height = '35'></img>
